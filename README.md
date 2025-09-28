@@ -3,5 +3,5 @@
 </p>
 
 # 💫 About Me:
-🎓 2nd-year Computer Engineering student @ CIT-U<br>
+🎓 3rd-year Computer Engineering student @ CIT-U<br>
 📊 DOST Scholar <br>
