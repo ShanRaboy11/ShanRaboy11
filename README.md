@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:00ccff&height=180&section=header&text=%20Shan%20Michael%20Raboy&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20|%20Technology%20Enthusiast&descSize=16&descAlignY=51"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:66d9ff&height=180&section=header&text=%20Shan%20Michael%20Raboy&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20|%20Technology%20Enthusiast&descSize=16&descAlignY=51"/>
 </div>
 
 ## About Me
@@ -92,9 +92,6 @@ Full Stack Development • Database Optimization • UI/UX Implementation
 <a href="https://facebook.com/shan.raboy11">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="35" height="35" alt="Facebook" style="margin: 0 8px;"/>
 </a>
-<a href="https://your-portfolio.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/2234/2234688.png" width="35" height="35" alt="Portfolio" style="margin: 0 8px;"/>
-</a>
 <a href="mailto:shanraboy11@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" height="35" alt="Email" style="margin: 0 8px;"/>
 </a>
@@ -118,4 +115,4 @@ Full Stack Development • Database Optimization • UI/UX Implementation
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:00ccff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:66d9ff&height=120&section=footer"/>
