@@ -19,8 +19,6 @@
 **Bachelor of Science in Computer Engineering**  
 Cebu Institute of Technology-University | 3rd Year 
 
-<br/>
-
 </div>
 
 <br/>
