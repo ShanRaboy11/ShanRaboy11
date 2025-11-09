@@ -1,17 +1,12 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:00ccff&height=180&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Building%20innovative%20solutions%20with%20code&descSize=16&descAlignY=51"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:00ccff&height=180&section=header&text=%20Shan%20Michael%20Raboy&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20|%20Technology%20Enthusiast&descSize=16&descAlignY=51"/>
 </div>
-
-<h1 align="center">Hi, I'm Shan Michael Raboy</h1>
-<h3 align="center">Software Developer | Technology Enthusiast</h3>
-
-<br/>
 
 ## About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=Software+Developer;Technology+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=Detail+Oriented;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 
 </div>
 
@@ -22,8 +17,9 @@
 <img src="https://img.shields.io/badge/EDUCATION-0066cc?style=for-the-badge&labelColor=000000&color=0066cc" />
 
 **Bachelor of Science in Computer Engineering**  
-Cebu Institute of Technology-University | 3rd Year | Expected Graduation: 2027  
-📍Cebu City, Philippines
+Cebu Institute of Technology-University | 3rd Year 
+
+<br/>
 
 </div>
 
@@ -41,23 +37,11 @@ Web Development • Mobile Development • Software Engineering • Database Man
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CURRENTLY_EXPLORING-0066cc?style=for-the-badge&labelColor=000000&color=0066cc" />
-
-Advanced React Patterns • Cloud Architecture • System Design • Microservices Architecture
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/TECHNICAL_EXPERTISE-00ccff?style=for-the-badge&labelColor=000000&color=00ccff" />
 
-Full Stack Development • RESTful API Design • Database Optimization • UI/UX Implementation
+Full Stack Development • Database Optimization • UI/UX Implementation
 
 </div>
-
-<br/>
 
 ## Tech Stack
 
@@ -84,8 +68,8 @@ Full Stack Development • RESTful API Design • Database Optimization • UI/U
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShanRaboy11&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanRaboy11&layout=compact&theme=algolia&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShanRaboy11&show_icons=true&theme=algolia&hide_border=true&count_private=true&cache_seconds=3600"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanRaboy11&layout=compact&theme=algolia&hide_border=true&langs_count=8&line_height=20"/>
 
 </div>
 
