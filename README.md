@@ -84,7 +84,7 @@ Full Stack Development • Database Optimization • UI/UX Implementation
 
 <div align="center">
   
-<a href="https://linkedin.com/in/shan-michael-raboy-64b32433b">
+<a href="https://www.linkedin.com/in/shan-raboy/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="35" alt="LinkedIn" style="margin: 0 8px;"/>
 </a>
 <a href="https://facebook.com/shan.raboy11">
